@@ -1,6 +1,7 @@
 body{background-color: #a3a3a3;}
 div{width: auto;height: auto;}
-h1{aligh:centre;}
+h1{
+    margin-left: 40%;}
 #hero{
     position: absolute;
     top:90px;
