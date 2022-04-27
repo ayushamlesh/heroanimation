@@ -19,7 +19,7 @@ let o = { "duration": 1000 };
 
 //running the animation
 //lightning is objet from top 
-setTimeout(() => {lightning.animate([lightningStart, lightningEnd], options)},100);
+setTimeout(() => {lightning.animate([lightningStart, lightningEnd], options)},1000);
 
 setTimeout(() => { villain.animate([villainStart, villainEnd], o) }, 10000);
 
