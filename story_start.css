@@ -1,5 +1,5 @@
 body{background-color: #a3a3a3;}
-div{width: auto;height: auto; display:flex}
+div{width: 100%;height: auto; display:flex}
 h1{
     margin-left: 30%;}
 #hero{
