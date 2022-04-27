@@ -1,7 +1,7 @@
 body{background-color: #a3a3a3;}
-div{width: 100%;height: auto; display:flex;margin:10px;}
+div{width: 89%;height: auto; display:flex;margin:10px;}
 h1{
-    margin-left: 30%;}
+    margin-left: 40%;}
 #hero{
     position: absolute;
     top:90px;
